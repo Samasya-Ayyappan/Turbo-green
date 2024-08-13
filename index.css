@@ -1,0 +1,204 @@
+#main {
+    width: 100%;
+    position:fixed;
+    top: 0px;
+    background-color: blue;
+}
+
+
+#navbar_options{
+    font-size: large;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+#first {
+    background-image: url(./Multimedia/nature-wallpaper.jpg);
+    padding: 200px 0px  400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#first h1 {
+    font-size: 50px;
+}
+
+#first p {
+    font-size: 30px;
+}
+
+#btn {
+    font-size: 20px;
+    background-color: blue;
+}
+
+#about h1 {
+    margin-top: 100px;
+}
+
+#about p {
+    padding-bottom: 30px;
+}
+
+#about h4 {
+    padding-left: 0px;
+}
+
+#about img {
+    float: left;
+}
+
+#range {
+    height: 10px;
+    background-color: blue;
+}
+
+#about {
+    padding-bottom: 80px;
+}
+
+#Resume_Main {
+    padding: 100px 0px;
+}
+
+.time {
+    position: relative;
+}
+
+#para{
+    float: left;
+}
+
+.timeline::after {
+    content: '';
+    position: absolute;
+    background-color: blue;
+    width: 3px;
+    top: 55px;
+    bottom: 0px;
+    left: 8px;
+}
+
+.right {
+    position: relative;
+    left: 10px;
+    padding-left: 10px;
+}
+
+.time h2::before {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border: 3px solid blue;
+    top: 50px;
+    border-radius: 50%;
+    z-index: 1;
+    left: 0px;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+.Resume {
+    padding: 0px 0px 80px;
+}
+
+#hr::after {
+    content: '';
+    position: absolute;
+    width: 8%;
+    height: 5px;
+    background-color: blue;
+    top: 110px;
+    border-radius: 0%;
+    left: 46%;
+}
+
+#hr4::after {
+    content: '';
+    position: absolute;
+    width: 8%;
+    height: 5px;
+    background-color: blue;
+    top: 210px;
+    border-radius: 0%;
+    left: 46%;
+}
+
+#hr3::after {
+    content: '';
+    position: absolute;
+    width: 8%;
+    height: 5px;
+    background-color: blue;
+    top: 60px;
+    border-radius: 0%;
+    left: 46%;
+}
+
+#hr,#hr4{
+padding-top: 50px;
+}
+
+#hr3{
+    padding-top: 0px;
+}
+
+#hr2::after {
+    content: '';
+    position: absolute;
+    width: 8%;
+    height: 5px;
+    background-color: blue;
+    top: 60px;
+    border-radius: 0%;
+    left: 46%;
+}
+
+.about1{
+    position: relative;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#contact{
+    padding: 100px 0px;
+
+}
+
+#contact p{
+    color: blue;
+}
+
+#contact a{
+    color: blue;
+    text-decoration: none;
+}
+
+#Contact_main{
+    padding-top: 100px;
+}
+ 
+.container hr{
+border: 1px solid blue;
+}
+
+#last{
+    padding: 20px 0px;
+}
+
+img{
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+
